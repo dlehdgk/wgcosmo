@@ -1,0 +1,27 @@
+likelihood:
+  candl_like:
+    additional_args: {}
+    clear_internal_priors: true
+    data_set_file: !!python/name:spt_candl_data.SPT3G_D1_TnE ''
+    external: !!python/name:candl.interface.CandlCobayaLikelihood ''
+    variant: "lite"
+    feedback: true
+    wrapper: null
+
+params:
+  #SPT
+  Tcal:
+    prior:
+      max: 1.2
+      min: 0.8
+    ref: 1.0
+    latex: T_{\rm cal}
+  Ecal:
+    prior:
+      max: 1.2
+      min: 0.8
+    ref: 1.0
+    latex: E_{\rm cal}
+
+  #Cosmology here
+ 

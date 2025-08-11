@@ -1,5 +1,6 @@
 likelihood:
-  sn.desy5: null
-  sn.union3: null
-  sn.pantheonplus: null
-  sn.pantheonplusshoes: null
+#Pick one only
+  sn.desy5: null #DESy5
+  sn.union3: null #Union-3
+  sn.pantheonplus: null #Pantheon-Plus
+  sn.pantheonplusshoes: null #Pantheon-Plus calibrated with SH0ES
