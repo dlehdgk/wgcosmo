@@ -23,7 +23,7 @@ If you find this material helpful for your research or presentation, feel free t
 ### Selected Academic Talks
 
 #### 2025
-- [Lost Beyonf ΛCDM](https://drive.google.com/file/d/1KU52NKw0DC90kq20aEHLF17N3IGVvB2y/view?usp=sharing) - Conference "Tension in Cosmology 2025", Corfu, 04.09.2025
+- [Lost Beyond ΛCDM](https://drive.google.com/file/d/1KU52NKw0DC90kq20aEHLF17N3IGVvB2y/view?usp=sharing) - Conference "Tension in Cosmology 2025", Corfu, 04.09.2025
 - [Cosmological Battlegrounds: Hubble Tension, Dark Energy and Neutrinos](https://drive.google.com/file/d/1Z8eMsvegpmKrBYTFTnTYcbEJy11T2Z28/view?usp=sharing) - Workshop “Round Table on New Avenues in Particle Cosmology”, Winchester Guildhall, 20.05.2025
 - [Cosmological Constraints on νs](https://drive.google.com/file/d/1F93A-zmsk_D7rlQowOoNFb_wWdlRWhLc/view?usp=sharing) - IPPP, Durham, Workshop "New-𝝂 Physics: From Colliders to Cosmology", 11.04.2025
 - [QCD Axion Cosmology](https://drive.google.com/file/d/1tCi5GpO66xBulDSWU-1fj7rsx411FRmv/view?usp=sharing) — HEP Seminar, Sheffield University, 12.03.2025
