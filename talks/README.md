@@ -17,12 +17,14 @@ If you find this material helpful for your research or presentation, feel free t
 
 ### Selected Academic Lectures 
 
+- [An introduction to Cosmological Tensions](https://drive.google.com/file/d/1OXzd6dUnJt-xrr_mVNqHNH8QDED63jW_/view?usp=sharing)
 - [An introduction to Inflationary Cosmology, from Theory to Data-Analysis I of II](https://drive.google.com/file/d/1u5bNgpo2clXl7S0-aF9nXL0ctW4TkxKp/view?usp=sharing)
 - [An introduction to Inflationary Cosmology, from Theory to Data-Analysis II of II](https://drive.google.com/file/d/1IWKukS9ABp5dQawW6Quns62nfTrnE73C/view?usp=sharing)
 
 ### Selected Academic Talks
 
 #### 2025
+- [Cosmic Tensions](https://drive.google.com/file/d/1Vz6WDl181orWHUf0w8Q-VFgidyHCB6ct/view?usp=sharing) - Quantum Analogues Workshop, Luxemburg, 16.09.2025
 - [Lost Beyond ΛCDM](https://drive.google.com/file/d/1KU52NKw0DC90kq20aEHLF17N3IGVvB2y/view?usp=sharing) - Conference "Tension in Cosmology 2025", Corfu, 04.09.2025
 - [Cosmological Battlegrounds: Hubble Tension, Dark Energy and Neutrinos](https://drive.google.com/file/d/1Z8eMsvegpmKrBYTFTnTYcbEJy11T2Z28/view?usp=sharing) - Workshop “Round Table on New Avenues in Particle Cosmology”, Winchester Guildhall, 20.05.2025
 - [Cosmological Constraints on νs](https://drive.google.com/file/d/1F93A-zmsk_D7rlQowOoNFb_wWdlRWhLc/view?usp=sharing) - IPPP, Durham, Workshop "New-𝝂 Physics: From Colliders to Cosmology", 11.04.2025
