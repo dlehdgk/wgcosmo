@@ -1,4 +1,6 @@
 likelihood:
+  #--------------------------------------------------------------
+  #this is SPT-3GD1 TnE
   candl_like:
     additional_args: {}
     clear_internal_priors: true
@@ -7,7 +9,14 @@ likelihood:
     variant: "lite"
     feedback: true
     wrapper: null
-
+  #--------------------------------------------------------------
+  #this is SPT lensing (muse3glike)
+  muse3glike.cobaya.spt3g_2yr_delensed_ee_optimal_pp_muse:
+    components:
+    - "\u03D5\u03D5"
+  #--------------------------------------------------------------
+prior:
+  gaussian_Tcal: 'lambda Tcal: stats.norm.logpdf(Tcal, loc=1.0, scale=0.0036)'
 params:
   #SPT
   Tcal:

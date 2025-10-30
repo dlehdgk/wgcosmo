@@ -1,6 +1,12 @@
 likelihood:
+  #--------------------------------------------------------------
+  # this is Planck low-T
   planck_2018_lowl.TT: null
+  #--------------------------------------------------------------
+  # this is Planck low-E
   planck_2018_lowl.EE_sroll2: null
+  #--------------------------------------------------------------
+  # this is Planck high-ell TT TE EE (ell cut for combining with ACT)
   act_dr6_cmbonly.PlanckActCut:
     dataset_params:
       use_cl: tt te ee
@@ -17,17 +23,25 @@ likelihood:
           scale: 0.1
         latex: A_{\rm planck}
         proposal: 0.003
+  #--------------------------------------------------------------
+  # this is ACT high-ell TT TE EE
   act_dr6_cmbonly.ACTDR6CMBonly:
     input_file: dr6_data_cmbonly.fits
     lmax_theory: 9000
     ell_cuts:
-      TT: [600,8500]
-      TE: [600,8500]
-      EE: [600,8500]
+      TT:
+      - 600
+      - 8500
+      TE:
+      - 600
+      - 8500
+      EE:
+      - 600
+      - 8500
     stop_at_error: true
     params:
       A_act:
-        value: "lambda A_planck: A_planck"
+        value: 'lambda A_planck: A_planck'
         latex: A_{\rm ACT}
       P_act:
         prior:
@@ -39,23 +53,32 @@ likelihood:
           scale: 0.01
         proposal: 0.01
         latex: p_{\rm ACT}
+  #--------------------------------------------------------------
+  # this is ACT and Planck lening
   act_dr6_lenslike.ACTDR6LensLike:
     lens_only: false
     stop_at_error: true
     lmax: 4000
     variant: actplanck_baseline
+  #--------------------------------------------------------------
+  #this is SPT-3GD1 TnE
   candl_like:
     additional_args: {}
     clear_internal_priors: true
     data_set_file: !!python/name:spt_candl_data.SPT3G_D1_TnE ''
     external: !!python/name:candl.interface.CandlCobayaLikelihood ''
-    variant: "lite"
+    variant: lite
     feedback: true
     wrapper: null
-
+  #--------------------------------------------------------------
+  #this is SPT lensing (muse3glike)
+  muse3glike.cobaya.spt3g_2yr_delensed_ee_optimal_pp_muse:
+    components:
+    - "\u03D5\u03D5"
+  #--------------------------------------------------------------
 prior:
-  #ACT
   cal_dip_prior: 'lambda A_act: stats.norm.logpdf(A_act, loc = 1.0, scale = 0.003)'
+  gaussian_Tcal: 'lambda Tcal: stats.norm.logpdf(Tcal, loc=1.0, scale=0.0036)'
 
 params:
   #SPT
