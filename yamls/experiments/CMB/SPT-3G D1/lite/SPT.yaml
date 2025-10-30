@@ -33,4 +33,5 @@ params:
     latex: E_{\rm cal}
 
   #Cosmology here
+  # Keep in mind that you may want to include a Planck low-E likelihood, or alternatively impose a prior on tau, to properly constrain the optical depth at reionization.
  
