@@ -24,6 +24,7 @@ If you find this material helpful for your research or presentation, feel free t
 ### Selected Academic Talks
 
 #### 2025
+-[Cosmic Tensions and Neutrino Cosmology](https://drive.google.com/file/d/1_PP6_liXidPUnD-mPF2pTYRhkFjRQFK9/view?usp=sharing) - TeV Particle Astrophysics (TeVPA 2025), Valencia, 04.11.2025 
 - [Lost Beyond ΛCDM](https://drive.google.com/file/d/1YTVHQMf_UzlY4LXw5zH992Y4M6TWSmGN/view?usp=sharing) - Particle Cosmology and Gravity Seminar, Nottingham, 07.10.2025
 - [Cosmic Tensions](https://drive.google.com/file/d/1Vz6WDl181orWHUf0w8Q-VFgidyHCB6ct/view?usp=sharing) - Quantum Analogues Workshop, Luxemburg, 16.09.2025
 - [Lost Beyond ΛCDM](https://drive.google.com/file/d/1KU52NKw0DC90kq20aEHLF17N3IGVvB2y/view?usp=sharing) - Conference "Tension in Cosmology 2025", Corfu, 04.09.2025
