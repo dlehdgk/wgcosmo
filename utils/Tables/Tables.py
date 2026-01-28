@@ -323,7 +323,7 @@ def get_table(samples_list, params, col_labels=False, chi2=False, caption="Capti
 
     if chi2 is not False:
         get_chi2_row_for_table(samples_list, headers=headers_for_chi2)
-        print("%===================== Chi2 Components (erase if not neded) =============================")
+        print("%===================== Chi2 Components (erase if not needed) =============================")
         get_chi2_component_rows_for_table(samples_list, headers=headers_for_chi2)
         print("%========================================================================================")
 
