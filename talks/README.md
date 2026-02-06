@@ -23,6 +23,9 @@ If you find this material helpful for your research or presentation, feel free t
 
 ### Selected Academic Talks
 
+#### 2026
+- [The state of Cosmology (circa 2026)](https://drive.google.com/file/d/1AmB5XPDM2OBYNrf-KiSOqHtswnGdzmMj/view) - Hawaii University Cosmology Group Meetings, Honolulu, 06.02.2026
+  
 #### 2025
 - [Cosmic Tensions and Neutrino Cosmology](https://drive.google.com/file/d/1_PP6_liXidPUnD-mPF2pTYRhkFjRQFK9/view?usp=sharing) - TeV Particle Astrophysics (TeVPA 2025), Valencia, 04.11.2025 
 - [Lost Beyond ΛCDM](https://drive.google.com/file/d/1YTVHQMf_UzlY4LXw5zH992Y4M6TWSmGN/view?usp=sharing) - Particle Cosmology and Gravity Seminar, Nottingham, 07.10.2025
